@@ -1,0 +1,18 @@
+{
+    "name": "browse-games",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Shivam Patel",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.1411.0",
+        "firebase-admin": "^11.9.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.22"
+    }
+}

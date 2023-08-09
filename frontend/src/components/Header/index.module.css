@@ -1,0 +1,25 @@
+.header {
+    background-color: #e7e6e6 !important;
+    color: black !important;
+}
+
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+}
+
+.title {
+    cursor: pointer;
+}
+
+.username {
+    margin: 0 8px !important;
+}
+
+.tabs {
+    @media (max-width: 768px) {
+        display: none !important;
+    }
+}

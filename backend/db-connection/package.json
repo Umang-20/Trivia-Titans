@@ -1,0 +1,16 @@
+{
+  "name": "db-connection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firestoredb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1413.0",
+    "firebase-admin": "^11.9.0"
+  }
+}

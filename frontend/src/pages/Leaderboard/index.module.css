@@ -1,0 +1,24 @@
+.container {
+  margin-top: 40px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.filters {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+}
+
+.statistics {
+  margin-top: 40px;
+  text-align: center;
+}

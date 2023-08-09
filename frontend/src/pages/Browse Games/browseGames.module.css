@@ -1,0 +1,29 @@
+.browsePage {
+  margin: 0;
+  text-align: left;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+  padding: 8px;
+}
+
+.container {
+  padding: 12px;
+  box-sizing: border-box;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: visible;
+}
+
+.gameList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  overflow: visible;
+}
+
+.wrapper {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

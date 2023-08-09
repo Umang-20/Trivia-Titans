@@ -1,0 +1,28 @@
+.tableContainer {
+  width: 100%;
+}
+
+.table {
+  width: 100%;
+}
+
+.tableHeaderRow {
+  background-color: #f9f9f9;
+}
+
+.tableHeaderCell {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+  font-weight: bold;
+}
+
+.tableBodyRow {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  text-align: left;
+}
+
+.pagination {
+  margin-top: 15px;
+}
