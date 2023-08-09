@@ -21,12 +21,12 @@ import { ref, uploadBytes, getStorage, getDownloadURL } from "firebase/storage";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCMK-bqRmkBg7TOUU7sFHnxVd-uSqkVjrw",
-  authDomain: "csci-5410-391423.firebaseapp.com",
-  projectId: "csci-5410-391423",
-  storageBucket: "csci-5410-391423.appspot.com",
-  messagingSenderId: "410095913247",
-  appId: "1:410095913247:web:b4c71ccbc7cd104900882a",
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize Firebase
